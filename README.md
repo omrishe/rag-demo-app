@@ -109,7 +109,3 @@ Key configuration parameters are located in `backend/config.py`:
 - `chromadb_collection_name`: Name of the ChromaDB collection.
 - `top_k`: Number of top similar chunks to retrieve.
 - `similarity_threshold`: Minimum similarity score for a chunk to be considered relevant.
-
-## Further Improvements
-
-Refer to the `IMPROVEMENTS.md` file (if present) for a detailed list of potential improvements and suggestions for further enhancements.
